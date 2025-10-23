@@ -1,0 +1,9 @@
+{
+  "name": "@signver/lilypad",
+  "version": "1.0.0",
+  "author": "Chua Siang Poh",
+  "license": "MIT",
+  "workspaces": [
+    "package/core"
+  ]
+}
